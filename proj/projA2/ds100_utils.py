@@ -1,3 +1,4 @@
+OK_FORMAT=True
 """Some common utilities for classwork and homework in Berkeley's Data100.
 """
 import pandas as pd

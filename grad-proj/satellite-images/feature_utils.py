@@ -1,3 +1,4 @@
+OK_FORMAT=True
 import numpy as np
 from scipy import ndimage as ndi
 from skimage import color

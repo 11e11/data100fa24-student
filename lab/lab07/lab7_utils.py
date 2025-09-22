@@ -1,3 +1,4 @@
+OK_FORMAT=True
 import sys
 import numpy as np
 

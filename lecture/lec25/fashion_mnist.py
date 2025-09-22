@@ -1,3 +1,4 @@
+OK_FORMAT=True
 # updated to include Data 100 util functions instead of keras
 
 # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
